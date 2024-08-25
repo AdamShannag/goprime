@@ -240,3 +240,6 @@ func main() {
 }
 
 ```
+## Example
+
+Explore this [example](https://github.com/AdamShannag/goprime-example) showcasing a Golang server integrated with Angular and PrimeNG
